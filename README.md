@@ -1,5 +1,3 @@
-# Resume_Clark
-My Resume (HTML edition)
 <!DOCTYPE html>
 <html>
 <head>
