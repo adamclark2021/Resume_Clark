@@ -18,9 +18,15 @@ body {
   border: 1px;
   img-size: 200px;
 }
-
+img {
+ max-width: 50%;
+ height: auto;
+}
 .charlie {
   padding-left: 0px;
   border: 1px;
-  img-size: 200px;
+}
+img {
+  Max-width 50%;
+  height: auto;
 }
